@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+}
+
+.header{
+background-color: whitesmoke;
+text-align:center;
+padding: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.nav {
+   overflow: hidden;
+   background-color: skyblue;
+
+}
+
+.nav a {
+    float: left;
+    display:block;
+    color:white;
+    text-align: center;
+    padding: 18px 20px;
+    margin: 20px;
+    border: 10px;
+    text-decoration: none; 
+}
+
+.giphy {
+    text-align: center;
+}
